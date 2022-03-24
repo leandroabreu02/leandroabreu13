@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/leandroabreu13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leandroabreu13" height="30" width="40" /></a>
+<a href="https://codepen.io/leandroabreu02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leandroabreu13" height="30" width="40" /></a>
 <a href="https://twitter.com/leandroabreu02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leandroabreu13_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leandroabreu13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leandroabreu13" height="30" width="40" /></a>
 <a href="https://codesandbox.com/leandroabreu13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="leandroabreu13" height="30" width="40" /></a>
